@@ -1,0 +1,26 @@
+.home_page {
+	padding: 40px 0 ;
+}
+
+.home_page__content {
+	height: 80vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	column-gap: 80px;
+}
+
+
+.home_page__text {
+	display: flex;
+	flex-direction: column;
+	row-gap: 20px;
+}
+
+.home_page__title {
+	font-size: 26px;
+}
+
+.home_page__subtitle {
+	font-size: 18px;
+}
