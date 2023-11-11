@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/LittleMoki/Hackton.git/static/css/main.f2c7c4f8.css",
-    "main.js": "/LittleMoki/Hackton.git/static/js/main.3eb265ef.js",
+    "main.js": "/LittleMoki/Hackton.git/static/js/main.7ffba6d5.js",
     "static/media/Bezymyannyj_2_(1)-transformed.png": "/LittleMoki/Hackton.git/static/media/Bezymyannyj_2_(1)-transformed.5fadadafe2770833f388.png",
     "static/media/Росссотрудничество_pixian_ai.png": "/LittleMoki/Hackton.git/static/media/Росссотрудничество_pixian_ai.affe23834b8e6949468f.png",
     "static/media/19-maktab logo.png": "/LittleMoki/Hackton.git/static/media/19-maktab logo.3e00459dcf09da2ee08e.png",
     "static/media/Лого_10лет_НиТ_Рус_Основной.png": "/LittleMoki/Hackton.git/static/media/Лого_10лет_НиТ_Рус_Основной.90c02ed25b141cf8d146.png",
     "index.html": "/LittleMoki/Hackton.git/index.html",
     "main.f2c7c4f8.css.map": "/LittleMoki/Hackton.git/static/css/main.f2c7c4f8.css.map",
-    "main.3eb265ef.js.map": "/LittleMoki/Hackton.git/static/js/main.3eb265ef.js.map"
+    "main.7ffba6d5.js.map": "/LittleMoki/Hackton.git/static/js/main.7ffba6d5.js.map"
   },
   "entrypoints": [
     "static/css/main.f2c7c4f8.css",
-    "static/js/main.3eb265ef.js"
+    "static/js/main.7ffba6d5.js"
   ]
 }
